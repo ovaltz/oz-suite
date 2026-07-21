@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "Corrige desinstalação não fechando instância na bandeja, UAC escondido ao abrir apps que exigem admin, e adiciona restauração automática da janela ao clicar em Abrir com o app já rodando.",
-  "pub_date": "2026-07-19T00:00:00Z",
+  "version": "0.1.2",
+  "notes": "Corrige o ícone do oKeyz no catálogo (agora carregado via URL hospedada, não precisa mais recompilar o OZ Suite pra lançar apps novos) e destaca o app mais recente lançado no topo da loja.",
+  "pub_date": "2026-07-21T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOERmZ1pJaGpyb0twZHdCcDNBUEJkdS83TjJUQXJBQm9heGlkUTJHWGFoQTlVWDRSMFIyUUN3M0hxeDVuUDZuaEJ3YU9EMk1PaG8xemZtSUV2UlRqUlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDMxMTIyCWZpbGU6T1ogU3VpdGVfMC4xLjFfeDY0LXNldHVwLmV4ZQpGMWY3T2RuY0xEdkJxc3dzOW0rMWIybVltdGdrVmFNL1JVMnQ2V1JURVdaMWdsTXZ2amk5OTNGQTErZGFYZHRZYW1FVkhXMTlqQWJFMFYrU3hKTURDUT09Cg==",
-      "url": "https://github.com/ovaltz/oz-suite/releases/download/OZ_Suite_1.1/OZ.Suite_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOEVlRE9VZm5TTEFBTUhnRXhiT09XcWhyY0U3dVpUY0ZxL3FSQis0MEpBd3ZFd0ZjbXplZ3A1eGFieUk1WmVwVEFvaE5mUS9OaGFHeS8wcUpwMWxJUWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjAxNDI2CWZpbGU6T1ogU3VpdGVfMC4xLjJfeDY0LXNldHVwLmV4ZQp1R0hVTENLY3kxa3pXMUJTamd6cTRNODUxcS9qVnBiQUJIVnZ2VzA3VndQNndZcjdHYkJQMVhHQlBEOURBQ25YNFlWVnJDZ0tsL0M5ZENzcUJHakVCQT09Cg==",
+      "url": "https://github.com/ovaltz/oz-suite/releases/download/oz_suite_1.2/OZ.Suite_0.1.2_x64-setup.exe"
     }
   }
 }
