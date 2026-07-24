@@ -1,11 +1,11 @@
 {
-  "version": "0.1.3",
-  "notes": "Corrige a lista lateral 'Meus Apps' (clicar num app agora abre ele de verdade) e o cache antigo do WebView2 que deixava ícones de apps quebrados na loja.",
-  "pub_date": "2026-07-24T14:00:00Z",
+  "version": "0.1.4",
+  "notes": "Corrige a notificação de atualização do próprio OZ Suite, que nunca aparecia por falta de permissão do plugin updater.",
+  "pub_date": "2026-07-24T15:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOExwcCtRbW9qaklYSXU0N2ViRGNuMURPUXVCUGgra0I2OG9oOTVaVlMybGtheFhsM0dqdWRWN1FGT1pBVm9sbDVqa0ErdnZxZWhEWFlNSmJuNDVjT1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTA1MDI1CWZpbGU6T1ogU3VpdGVfMC4xLjNfeDY0LXNldHVwLmV4ZQpUbVNqdmY5bEIvMU00VnBoRTVMQklHUGxhdUxxOEZxMVhKaDFEdTl2T3JyMTdyTEcxTWFScGhUV1BaREVBYm9rajJCeTkyL2xiSXhTeGU2Qm5hczFBUT09Cg==",
-      "url": "https://github.com/ovaltz/oz-suite/releases/download/oz_suite_1.3/OZ.Suite_0.1.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOEN3b3JNd0VISGMwRHErWnhLNkdnQzQxUTI1K0dKRW9RY2tvRkJBTDJoYzhXbTc0cmJwMTRRa3hOcTVvSEgrZDlQcUJWU3dES0VBeXFtYmhMVlhTTFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTA3OTMyCWZpbGU6T1ogU3VpdGVfMC4xLjRfeDY0LXNldHVwLmV4ZQpuUDViazB5b0gyckF5c0RuZVZ4Vy9GL2Fwc1JaY1hvaVFka0h1czBXcGN1R3NoOElCSC9RbWt4ZURDQmVZZnI0QmtkV2Y4ZWk2MTFiWi9oYk11LzVDdz09Cg==",
+      "url": "https://github.com/ovaltz/oz-suite/releases/download/oz_suite_1.4/OZ.Suite_0.1.4_x64-setup.exe"
     }
   }
 }
