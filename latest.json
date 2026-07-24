@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "Corrige o ícone do oKeyz no catálogo (agora carregado via URL hospedada, não precisa mais recompilar o OZ Suite pra lançar apps novos) e destaca o app mais recente lançado no topo da loja.",
-  "pub_date": "2026-07-21T00:00:00Z",
+  "version": "0.1.3",
+  "notes": "Corrige a lista lateral 'Meus Apps' (clicar num app agora abre ele de verdade) e o cache antigo do WebView2 que deixava ícones de apps quebrados na loja.",
+  "pub_date": "2026-07-24T14:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOE5yK2JvNTBZMVIzUXhMbzRPdElhbm4yODZPYWhTdXlpSXR1bHVnQS9MSVR1V1c2aVgydFNzUHJEV1k2dGpYMFRTaDJDM0RtQ2dXbktoYXkzS0tiZlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjEzMjI2CWZpbGU6T1ogU3VpdGVfMC4xLjJfeDY0LXNldHVwLmV4ZQpwNVQ5OWZtNkgxdlFkalAxNmZOcWxlOUdMdGxvOGVkUENHTFhROEdDOFlRd0doU1VmNjlKZUc1SUVXRzJSSlM2U0cvdDB5aitpczFTUEt5L2VyeUxDZz09Cg==",
-      "url": "https://github.com/ovaltz/oz-suite/releases/download/oz_suite_1.2/OZ.Suite_0.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOExwcCtRbW9qaklYSXU0N2ViRGNuMURPUXVCUGgra0I2OG9oOTVaVlMybGtheFhsM0dqdWRWN1FGT1pBVm9sbDVqa0ErdnZxZWhEWFlNSmJuNDVjT1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTA1MDI1CWZpbGU6T1ogU3VpdGVfMC4xLjNfeDY0LXNldHVwLmV4ZQpUbVNqdmY5bEIvMU00VnBoRTVMQklHUGxhdUxxOEZxMVhKaDFEdTl2T3JyMTdyTEcxTWFScGhUV1BaREVBYm9rajJCeTkyL2xiSXhTeGU2Qm5hczFBUT09Cg==",
+      "url": "https://github.com/ovaltz/oz-suite/releases/download/oz_suite_1.3/OZ.Suite_0.1.3_x64-setup.exe"
     }
   }
 }
