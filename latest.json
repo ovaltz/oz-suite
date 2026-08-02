@@ -1,11 +1,11 @@
 {
-  "version": "0.1.5",
-  "notes": "Novo visual do launcher: paleta monocromatica (preto/cinza/branco) e logo novo. Catalogo atualizado com os nomes/logos corretos de OZ Clips, OZ Clips Live, OZ Boost, OZ Aim, OZ Live e OZ Keys; OZ Music e OZ Link adicionados como em breve.",
-  "pub_date": "2026-08-02T14:15:39Z",
+  "version": "0.1.6",
+  "notes": "Corrige deteccao de apps instalados: OZ Live One e OZ Music nao apareciam como instalados no catalogo mesmo ja instalados.",
+  "pub_date": "2026-08-02T21:01:51Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOEpMb2NCQWY1S2tZa3pvZXltVkRhZFRHdDROWEZORXV0clZNa0ZrNURERnJZN2hSK21YOFA2YTEwUVQ2ZGZ6dU9tcklnb2tkNkdKZEJ5T1c3WmR5amdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjUzMDY0CWZpbGU6T1ogU3VpdGVfMC4xLjVfeDY0LXNldHVwLmV4ZQpmcDJTNmswWHdKRUN3NERSZk9yMzIyeWZXSE5rTWx5NDd3QVAwRFpSbS9BSndsdkxqYUpsVzlod1RFVkpjN2xhcldSbDhGODdSWTFGR1E4UnFNaWRDZz09Cg==",
-      "url": "https://github.com/ovaltz/oz-suite/releases/download/oz_suite_1.5/OZ.Suite_0.1.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOE5FMGZqY2l2cUU1RzlHK2IvOW9lUEJKRFk4VnIxVXlvWkc1UytRNGJOZ2RJNjA2SDAvNnJ3MXBML3BDWGNoVGp3QjlBZE8za2JQbHErSjdITFdseEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzA0NTkyCWZpbGU6T1ogU3VpdGVfMC4xLjZfeDY0LXNldHVwLmV4ZQpWUFpjbkdWZXByQVZwOUwrVXF4SlRpQjlxVlh2VkErZDAxY3Q2eDAwaVJ4ODNyV2ZtdWtEaHU0NlpHQXNXdmJnWU44QW5BV25qVnEzL2xUYmdMT2xEUT09Cg==",
+      "url": "https://github.com/ovaltz/oz-suite/releases/download/oz_suite_1.6/OZ.Suite_0.1.6_x64-setup.exe"
     }
   }
 }
