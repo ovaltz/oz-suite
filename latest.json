@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Corrige a notificação de atualização do próprio OZ Suite, que nunca aparecia por falta de permissão do plugin updater.",
-  "pub_date": "2026-07-24T15:30:00Z",
+  "version": "0.1.5",
+  "notes": "Novo visual do launcher: paleta monocromatica (preto/cinza/branco) e logo novo. Catalogo atualizado com os nomes/logos corretos de OZ Clips, OZ Clips Live, OZ Boost, OZ Aim, OZ Live e OZ Keys; OZ Music e OZ Link adicionados como em breve.",
+  "pub_date": "2026-08-02T14:15:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOEN3b3JNd0VISGMwRHErWnhLNkdnQzQxUTI1K0dKRW9RY2tvRkJBTDJoYzhXbTc0cmJwMTRRa3hOcTVvSEgrZDlQcUJWU3dES0VBeXFtYmhMVlhTTFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTA3OTMyCWZpbGU6T1ogU3VpdGVfMC4xLjRfeDY0LXNldHVwLmV4ZQpuUDViazB5b0gyckF5c0RuZVZ4Vy9GL2Fwc1JaY1hvaVFka0h1czBXcGN1R3NoOElCSC9RbWt4ZURDQmVZZnI0QmtkV2Y4ZWk2MTFiWi9oYk11LzVDdz09Cg==",
-      "url": "https://github.com/ovaltz/oz-suite/releases/download/oz_suite_1.4/OZ.Suite_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOEpMb2NCQWY1S2tZa3pvZXltVkRhZFRHdDROWEZORXV0clZNa0ZrNURERnJZN2hSK21YOFA2YTEwUVQ2ZGZ6dU9tcklnb2tkNkdKZEJ5T1c3WmR5amdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjUzMDY0CWZpbGU6T1ogU3VpdGVfMC4xLjVfeDY0LXNldHVwLmV4ZQpmcDJTNmswWHdKRUN3NERSZk9yMzIyeWZXSE5rTWx5NDd3QVAwRFpSbS9BSndsdkxqYUpsVzlod1RFVkpjN2xhcldSbDhGODdSWTFGR1E4UnFNaWRDZz09Cg==",
+      "url": "https://github.com/ovaltz/oz-suite/releases/download/oz_suite_1.5/OZ.Suite_0.1.5_x64-setup.exe"
     }
   }
 }
