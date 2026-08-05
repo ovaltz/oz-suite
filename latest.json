@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
-  "notes": "Corrige deteccao de apps instalados: OZ Live One e OZ Music nao apareciam como instalados no catalogo mesmo ja instalados.",
-  "pub_date": "2026-08-02T21:01:51Z",
+  "version": "0.1.7",
+  "notes": "Corrige comparacao de versao no scanner de apps instalados: comparacao de texto tratava versoes como 1.10 como 'menor' que 1.9, oferecendo downgrade disfarcado de update.",
+  "pub_date": "2026-08-05T21:41:03Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOE5FMGZqY2l2cUU1RzlHK2IvOW9lUEJKRFk4VnIxVXlvWkc1UytRNGJOZ2RJNjA2SDAvNnJ3MXBML3BDWGNoVGp3QjlBZE8za2JQbHErSjdITFdseEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzA0NTkyCWZpbGU6T1ogU3VpdGVfMC4xLjZfeDY0LXNldHVwLmV4ZQpWUFpjbkdWZXByQVZwOUwrVXF4SlRpQjlxVlh2VkErZDAxY3Q2eDAwaVJ4ODNyV2ZtdWtEaHU0NlpHQXNXdmJnWU44QW5BV25qVnEzL2xUYmdMT2xEUT09Cg==",
-      "url": "https://github.com/ovaltz/oz-suite/releases/download/oz_suite_1.6/OZ.Suite_0.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOElOK2xHdjlYWEliY1gxVExMaFVpS3YrM1o3R0pGQ2srcE5KbTY2NGJmQjZubnJKUjhqa05VZEpjbFc4Rncyektvd3pYNUlwNFBDRHVFai8wb0loalFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTY2MDIxCWZpbGU6T1ogU3VpdGVfMC4xLjdfeDY0LXNldHVwLmV4ZQpzM3hIYUh0MVZ1V25PckN3bmtnWk85Um9vc01DeFlsSU52RllKdzNELzhlRUxSQTRmQTVtOUZONGlEK0hWdzErZFArNEdZYzdWaTdHY3hXTjloR1BBUT09Cg==",
+      "url": "https://github.com/ovaltz/oz-suite/releases/download/oz_suite_1.7/OZ.Suite_0.1.7_x64-setup.exe"
     }
   }
 }
