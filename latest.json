@@ -1,11 +1,11 @@
 {
-  "version": "0.1.7",
-  "notes": "Corrige comparacao de versao no scanner de apps instalados: comparacao de texto tratava versoes como 1.10 como 'menor' que 1.9, oferecendo downgrade disfarcado de update.",
-  "pub_date": "2026-08-05T21:41:03Z",
+  "version": "0.1.8",
+  "notes": "Catalogo de apps agora busca dados frescos na hora do clique em instalar/atualizar, em vez de confiar so no que foi carregado na abertura da janela -- corrige apps baixando versao desatualizada quando o OZ Suite fica aberto/na bandeja por um tempo.",
+  "pub_date": "2026-08-05T21:54:19Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOElOK2xHdjlYWEliY1gxVExMaFVpS3YrM1o3R0pGQ2srcE5KbTY2NGJmQjZubnJKUjhqa05VZEpjbFc4Rncyektvd3pYNUlwNFBDRHVFai8wb0loalFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTY2MDIxCWZpbGU6T1ogU3VpdGVfMC4xLjdfeDY0LXNldHVwLmV4ZQpzM3hIYUh0MVZ1V25PckN3bmtnWk85Um9vc01DeFlsSU52RllKdzNELzhlRUxSQTRmQTVtOUZONGlEK0hWdzErZFArNEdZYzdWaTdHY3hXTjloR1BBUT09Cg==",
-      "url": "https://github.com/ovaltz/oz-suite/releases/download/oz_suite_1.7/OZ.Suite_0.1.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOEZsR3R2RXEyblR0U0ZkQ2NrTFRLRWxvWHlPS1pWYklneEdtUlNoeDBYMzNpTy90anZ2L3RabmNrY1p4ZVVCcjFITzc0dSszWnBqWk9BU2E2eUpGcXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTY2ODExCWZpbGU6T1ogU3VpdGVfMC4xLjhfeDY0LXNldHVwLmV4ZQpONUlwckRaNmVqWjY2WVRESTd4cmFaTDdOUzZCVlhRS3BoalhXT1loeHJMS1J3enNoVVZla1V6aEd5QzNLZ2VLSlNoQmdncWlHL0tyYkxSeXh6dUlBQT09Cg==",
+      "url": "https://github.com/ovaltz/oz-suite/releases/download/oz_suite_1.8/OZ.Suite_0.1.8_x64-setup.exe"
     }
   }
 }
