@@ -1,11 +1,11 @@
 {
-  "version": "0.1.9",
-  "notes": "Detecção de apps instalados agora usa o catálogo do Supabase em vez de uma lista fixa no código -- corrige o OZ Link (e futuros apps) aparecendo como 'Instalar' mesmo já instalado.",
-  "pub_date": "2026-09-10T00:56:48Z",
+  "version": "0.1.10",
+  "notes": "Nova aba Mobile: os apps para celular da suite agora aparecem dentro do OZ Suite, com QR Code, copiar link e salvar o APK no PC. App novo aparece sozinho, sem atualizar o launcher.",
+  "pub_date": "2026-09-28T19:35:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOEcvbWcxU1g4ZHY3eXBrNXZkTWNkVTBrWWllUWE3YjV0bVBVWjN3WE1tbTVQblA4UGpOVGZZWjNKQ3JOcHhOTndjdEVVV1B1NnFGOGhQTHR3ZlF1N3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDAxNzY3CWZpbGU6T1ogU3VpdGVfMC4xLjlfeDY0LXNldHVwLmV4ZQpWN2JnMXNraVRhZEFUVlRXcXEwVUVUNE9OQlZFaGIyWEZscDNsVkRuQjlXcHVpYnhJbVhtZUNwak5ReUhDeDNqbUFiV0FqT3BDa1luNlRXOWUxMW5EUT09Cg==",
-      "url": "https://github.com/ovaltz/oz-suite/releases/download/oz_suite_1.9/OZ.Suite_0.1.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOEFxR1daTHNkUGNOdkRWbEVPcmFlSkk2ZkU3Ky9TaHNQcHR2VzFxbVVpZk5NVmoveEhqVmZaOXh0bU1CSzJUTUkzSFhTcHYwbU43cVZ5UmhzRTRHbVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTg5NzI4CWZpbGU6T1ogU3VpdGVfMC4xLjEwX3g2NC1zZXR1cC5leGUKQWh0ZjM3dlVTSzdNc1M1U1R0VE84S3VtTy84TW1WclRiMHRNTGd3WXBOMjFmWXJEVHVhTFFYNHhqajVZZ3FLaUd3eU5hTUhMOThBK0pLdXRxN1BuQlE9PQo=",
+      "url": "https://github.com/ovaltz/oz-suite/releases/download/oz_suite_1.10/OZ.Suite_0.1.10_x64-setup.exe"
     }
   }
 }
