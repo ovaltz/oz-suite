@@ -1,11 +1,11 @@
 {
-  "version": "0.1.10",
-  "notes": "Nova aba Mobile: os apps para celular da suite agora aparecem dentro do OZ Suite, com QR Code, copiar link e salvar o APK no PC. App novo aparece sozinho, sem atualizar o launcher.",
-  "pub_date": "2026-09-28T19:35:00Z",
+  "version": "0.1.11",
+  "notes": "Recuperar senha por código enviado ao e-mail e botão de mostrar a senha no login.",
+  "pub_date": "2026-10-03T09:46:54Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOEFxR1daTHNkUGNOdkRWbEVPcmFlSkk2ZkU3Ky9TaHNQcHR2VzFxbVVpZk5NVmoveEhqVmZaOXh0bU1CSzJUTUkzSFhTcHYwbU43cVZ5UmhzRTRHbVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTg5NzI4CWZpbGU6T1ogU3VpdGVfMC4xLjEwX3g2NC1zZXR1cC5leGUKQWh0ZjM3dlVTSzdNc1M1U1R0VE84S3VtTy84TW1WclRiMHRNTGd3WXBOMjFmWXJEVHVhTFFYNHhqajVZZ3FLaUd3eU5hTUhMOThBK0pLdXRxN1BuQlE9PQo=",
-      "url": "https://github.com/ovaltz/oz-suite/releases/download/oz_suite_1.10/OZ.Suite_0.1.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOENDWDk4b05VN210SVF5NTcrdGJPQ1pFRWMwUk9QTWFWSFFNTFVJd0NqWUVjR0dxdUFMVTFqSi9vSXU2amdTTlVCeGxvVGtnV01nU1BqSnA0TVFuQ2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDIwODAwCWZpbGU6T1ogU3VpdGVfMC4xLjExX3g2NC1zZXR1cC5leGUKSnRsbDF4K3ZIcUYzRlRabENWZlF3ek9DQXBtakVLR3FhekZ1Qk9XSEFBVmdmOUVsRHNpUGhHd2FYbVdFN1BYL1JkVW0xZElLZUFnVDk3dUNDWGNtQkE9PQo=",
+      "url": "https://github.com/ovaltz/oz-suite/releases/download/oz_suite_1.11/OZ.Suite_0.1.11_x64-setup.exe"
     }
   }
 }
