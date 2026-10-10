@@ -1,11 +1,11 @@
 {
-  "version": "0.1.11",
-  "notes": "Recuperar senha por código enviado ao e-mail e botão de mostrar a senha no login.",
-  "pub_date": "2026-10-03T09:46:54Z",
+  "version": "0.1.13",
+  "notes": "Visual novo, hero na Loja e aba Mobile com o OZ Suite Mobile como único download.",
+  "pub_date": "2026-10-10T10:32:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOENDWDk4b05VN210SVF5NTcrdGJPQ1pFRWMwUk9QTWFWSFFNTFVJd0NqWUVjR0dxdUFMVTFqSi9vSXU2amdTTlVCeGxvVGtnV01nU1BqSnA0TVFuQ2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDIwODAwCWZpbGU6T1ogU3VpdGVfMC4xLjExX3g2NC1zZXR1cC5leGUKSnRsbDF4K3ZIcUYzRlRabENWZlF3ek9DQXBtakVLR3FhekZ1Qk9XSEFBVmdmOUVsRHNpUGhHd2FYbVdFN1BYL1JkVW0xZElLZUFnVDk3dUNDWGNtQkE9PQo=",
-      "url": "https://github.com/ovaltz/oz-suite/releases/download/oz_suite_1.11/OZ.Suite_0.1.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOE5ZQ1VYcGZUUFZtWEs2Zk55VzVyTkh6cy83NHpCeTFaeG1LOHFRcEhGK1liN2ZXQ25saTBycUJodXFOck5Na21yem5ieUF0UDh0eVNaM1N3bUxvRGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjI4MTM3CWZpbGU6T1ogU3VpdGVfMC4xLjEzX3g2NC1zZXR1cC5leGUKbklyNUcvNUdaU1NQQ1lMMkNhaDUybW1hWVNkNldUT0psNTRISUh5cGJWL0xuQTVuaW5DMU93R1J1bVVrWU85b0VUQVFOcWJpKzZPTGN0eS9xdXFSRGc9PQo=",
+      "url": "https://github.com/ovaltz/oz-suite/releases/download/oz_suite_1.13/OZ.Suite_0.1.13_x64-setup.exe"
     }
   }
 }
