@@ -1,11 +1,11 @@
 {
-  "version": "0.1.13",
-  "notes": "Visual novo, hero na Loja e aba Mobile com o OZ Suite Mobile como único download.",
-  "pub_date": "2026-10-10T10:32:57Z",
+  "version": "0.1.14",
+  "notes": "Ajustes internos.",
+  "pub_date": "2026-10-17T11:12:16Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOE5ZQ1VYcGZUUFZtWEs2Zk55VzVyTkh6cy83NHpCeTFaeG1LOHFRcEhGK1liN2ZXQ25saTBycUJodXFOck5Na21yem5ieUF0UDh0eVNaM1N3bUxvRGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjI4MTM3CWZpbGU6T1ogU3VpdGVfMC4xLjEzX3g2NC1zZXR1cC5leGUKbklyNUcvNUdaU1NQQ1lMMkNhaDUybW1hWVNkNldUT0psNTRISUh5cGJWL0xuQTVuaW5DMU93R1J1bVVrWU85b0VUQVFOcWJpKzZPTGN0eS9xdXFSRGc9PQo=",
-      "url": "https://github.com/ovaltz/oz-suite/releases/download/oz_suite_1.13/OZ.Suite_0.1.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURXhtbUVIcTdLOE9LOVFDUWVIc0RoS2hFREExbTBwVWlhV25zeVI4UHd1T3lWUXRXUnppYnBlNy85ZzNsL0VwTkNZaHpVWlVLcEo0SlJyazF5WldiWXdhZHZKYTN1c0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjM1NDAxCWZpbGU6T1ogU3VpdGVfMC4xLjE0X3g2NC1zZXR1cC5leGUKRWhRa2ZKMmMzam1peE9icDFKbWJBNVNGOHJyOXFlcTlRQmdHSk15a01zUEtyQUo4dEpVcThIeG4rdnFLUnMvc1doeUFKQm9oSkVuMCtsOTlETDA3Q0E9PQo=",
+      "url": "https://github.com/ovaltz/oz-suite/releases/download/oz_suite_1.14/OZ.Suite_0.1.14_x64-setup.exe"
     }
   }
 }
